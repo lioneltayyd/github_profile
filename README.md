@@ -9,10 +9,10 @@ Down-to-earth data analyst with a background in user experience, web, and market
 
 # 🤩 Latest Projects / Apps / Dashboards 
 
-👉 [ETF & Equity Market Trades Dashboard][market_trades_dashboard]
-
-👉 [Malaysia Credit Card Market Dashboard][malaysia_bank_card_dashboard]
-
+👉 [Malaysia Credit Card Scraping Repo][malaysia_bank_card_scraping_repo] </br>
+👉 [Compile Ticker Data Repo][compile_ticker_data_repo] </br>
+👉 [ETF & Equity Market Trades Dashboard][market_trades_dashboard] </br>
+👉 [Malaysia Credit Card Market Dashboard][malaysia_bank_card_dashboard] </br>
 👉 [Tableau Public Gallery][tableau_gallery]
 
 
@@ -59,6 +59,8 @@ __Familiar Tools__
 
 [linkedin]: https://www.linkedin.com/in/lioneltayyd/
 
+[malaysia_bank_card_scraping_repo]: https://github.com/lioneltayyd/malaysia-bank-card-scraping
+[compile_ticker_data_repo]: https://github.com/lioneltayyd/compile-ticker-data
 [market_trades_dashboard]: https://market-trades-dashboard.herokuapp.com/
 [malaysia_bank_card_dashboard]: https://malaysia-bank-card-dashboard.herokuapp.com/
 [tableau_gallery]: https://public.tableau.com/profile/lionel.tay
