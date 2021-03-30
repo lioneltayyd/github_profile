@@ -5,17 +5,19 @@ Down-to-earth data analyst with a background in user experience, web, and market
 -   Website: [https://lioneltayyd.github.io/site/][website]
 -   Linkedin: [https://www.linkedin.com/in/lioneltayyd][linkedin]
 
----
 
-## 🤩 Latest Projects / Apps / Dashboards 
+
+# 🤩 Latest Projects / Apps / Dashboards 
 
 👉 [ETF & Equity Market Trades Dashboard][market_trades_dashboard]
+
 👉 [Malaysia Credit Card Market Dashboard][malaysia_bank_card_dashboard]
+
 👉 [Tableau Public Gallery][tableau_gallery]
 
----
 
-## ⚔️ Languages and Tools:
+
+# ⚔️ Languages and Tools:
 
 __Aptitudes__
 
@@ -37,9 +39,9 @@ __Familiar Tools__
 - Marketing – Google Analytic & Ads, Ubersuggest, Hootsuite, LuckyOrange, Youtube Analytics.
 - Project management – Jira, Notion, Trello
 
----
 
-## 🧐 Latest Blog Posts 
+
+# 🧐 Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
