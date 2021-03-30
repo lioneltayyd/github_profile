@@ -9,8 +9,13 @@ Down-to-earth data analyst with a background in user experience, web, and market
 
 # 🤩 Latest Projects / Apps / Dashboards 
 
+__Repository__
+
 👉 [Malaysia Credit Card Scraping Repo][malaysia_bank_card_scraping_repo] </br>
 👉 [Compile Ticker Data Repo][compile_ticker_data_repo] </br>
+
+__Dashboard__
+
 👉 [ETF & Equity Market Trades Dashboard][market_trades_dashboard] </br>
 👉 [Malaysia Credit Card Market Dashboard][malaysia_bank_card_dashboard] </br>
 👉 [Tableau Public Gallery][tableau_gallery]
