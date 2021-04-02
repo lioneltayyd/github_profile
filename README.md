@@ -9,16 +9,8 @@ Down-to-earth data analyst with a background in user experience, web, and market
 
 # 🤩 Projects / Apps / Dashboards 
 
-__Data & Statistical Analysis__
-
 👉 [Link to the data & statistical analysis projects][data_statistical_analysis_project_page] </br>
-
-__Dashboard__
-
 👉 [Link to the dashboards][dashboard_data_exploration_project_page] </br>
-
-__Machine & Deep Learning__
-
 👉 [Link to the machine & deep learning projects][machine_deep_learning_project_page] </br>
 
 
