@@ -2,23 +2,24 @@
 
 Down-to-earth data analyst with a background in user experience, web, and marketing analytics in the software, marketing, and advertising industries. Experience includes identifying business requirements or opportunities, insight mining, visualisation, model development, minor devops, and presenting actionable insights to decision-makers in an agile environment. 
 
--   Website: [https://lioneltayyd.github.io/site/][website]
--   Linkedin: [https://www.linkedin.com/in/lioneltayyd][linkedin]
+-   Website: [lioneltayyd.github.io/site/][website]
+-   Linkedin: [linkedin.com/in/lioneltayyd][linkedin]
 
 
 
-# 🤩 Latest Projects / Apps / Dashboards 
+# 🤩 Projects / Apps / Dashboards 
 
-__Repository__
+__Data & Statistical Analysis__
 
-👉 [Malaysia Credit Card Scraping Repo][malaysia_bank_card_scraping_repo] </br>
-👉 [Compile Ticker Data Repo][compile_ticker_data_repo] </br>
+👉 [Link to the data & statistical analysis projects][data_statistical_analysis_project_page] </br>
 
 __Dashboard__
 
-👉 [ETF & Equity Market Trades Dashboard][market_trades_dashboard] </br>
-👉 [Malaysia Credit Card Market Dashboard][malaysia_bank_card_dashboard] </br>
-👉 [Tableau Public Gallery][tableau_gallery]
+👉 [Link to the dashboards][dashboard_data_exploration_project_page] </br>
+
+__Machine & Deep Learning__
+
+👉 [Link to the machine & deep learning projects][machine_deep_learning_project_page] </br>
 
 
 
@@ -61,11 +62,8 @@ __Familiar Tools__
 
 [website]: https://lioneltayyd.github.io/site/
 [website_blog]: https://lioneltayyd.github.io/site/blog
-
 [linkedin]: https://www.linkedin.com/in/lioneltayyd/
 
-[malaysia_bank_card_scraping_repo]: https://github.com/lioneltayyd/malaysia-bank-card-scraping
-[compile_ticker_data_repo]: https://github.com/lioneltayyd/compile-ticker-data
-[market_trades_dashboard]: https://market-trades-dashboard.herokuapp.com/
-[malaysia_bank_card_dashboard]: https://malaysia-bank-card-dashboard.herokuapp.com/
-[tableau_gallery]: https://public.tableau.com/profile/lionel.tay
+[data_statistical_analysis_project_page]: https://lioneltayyd.github.io/site/data_statistical_analysis/anova_or_factorial_anova/
+[dashboard_data_exploration_project_page]: https://lioneltayyd.github.io/site/dashboard_data_exploration/streamlit_dashboard/
+[machine_deep_learning_project_page]: https://lioneltayyd.github.io/site/machine_deep_learning/customer_churn_analysis/
